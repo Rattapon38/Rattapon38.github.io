@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: rattapon rungrueng
 permalink: /about/
 ---
 
-Some information about you!
+rattapon
+Ubon 
 
 ### More Information
 
