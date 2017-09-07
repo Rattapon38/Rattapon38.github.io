@@ -1,7 +1,7 @@
 ---
-layout; page
+layout: page
 title: My resume
-permalink
+permalink: /resume/
 ---
 Bs.C. computer Science,Ubon Ratchani Ratchpat Ubon Ratchathani  University
 
