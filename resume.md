@@ -5,7 +5,7 @@ permalink
 ---
 Bs.C. computer Science,Ubon Ratchani Ratchpat Ubon Ratchathani  University
 
-#Experience
+# Experience
 -
-#Education
+# Education
 -
