@@ -1,11 +1,11 @@
 ---
 layout: page
-title: rattapon rungrueng
+title: Rattapon Rungrueng
 permalink: /about/
 ---
 
-rattapon
-Ubon 
+#rattapon
+Ubon Ratchathani
 
 ### More Information
 
