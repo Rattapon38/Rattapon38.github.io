@@ -8,8 +8,8 @@ permalink: /about/
 ### Ubon Ratchathani City Thailand
 
 ### More Information
-    Currently studying for bachelor degree 
-    at ratchapatUbonratchathani University
+    - Currently studying for bachelor degree 
+      at Ratchabhat Ubon Ratchathani University
 
 
 ### Contact me
