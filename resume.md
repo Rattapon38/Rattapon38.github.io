@@ -10,5 +10,6 @@ permalink: /resume/
  - เขียน Appication Android
  - เขียน โปรแกรมควบคุบ raspberry pi
  - เขียน โปรแกรมควบคุบ Arduino (IOT)
+ - เขียน PHP.Framwork
 # Education
  - Bs.C. computer Science,Ubon Ratchathani Ratchbhat Ubon Ratchathani  University
